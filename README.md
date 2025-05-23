@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Wireframe inicial: https://excalidraw.com/#room=87b73cc1e9e590e72daf,toz0oMBLVzxQCTWKcEFYCg
 
 ## Available Scripts
 
